@@ -1,16 +1,24 @@
 # Emily Sas
 
-I am a passionate junior web developer with an particular interest in test driven development and object oriented design. I love writing elegant code and derive great satisfaction from making my methods one line long wherever possible. I'm looking for a part-time position that will allow me to learn as much as I possibly can.
+I am a passionate junior web developer with an particular interest in test driven development and object oriented design. I love writing elegant code and derive great satisfaction from writing one line long wherever possible. I'm looking for a part-time position that will allow me to learn as much as I possibly can.
 
 
 ## Skills
 
+### Programming
+
+I equally comfortable in Ruby (Rails and Sinatra) or Javascript (Node.js), and am currently teaching myself Clojure and Scala. I carry out TDD and BDD, strive to follow the SOLID principles, and to keep my code as DRY as possible.
+
+    Working within a team to meet a client brief, I spent the final two weeks of Makers creating a Rails Application heavily reliant on a relational database and a complex and secure routing system: [One Day Experience](https://github.com/emilysas/One_Day_Experience_Prototype)
+     During a 2.5 day makeathon, I worked within a team to create an app that used the Twiter API to analyse current trends: [SmartTwits](https://github.com/emilysas/smart_twits)
+
 ### Problem Solving
 
-I was drawn to studying Philosophy, Law, and more recently Programming, largely through a love of problem solving. I consider myself to be very good at analysing problems, having a good conceptual overview of the issues, and applying a suitable solution. 
-  Prior to studying at Makers Academy, I attended and won a hackathon run by Makers but Judged by external VCs.
-  I have entered and won a number of debating and mooting competions, demonstrating my ability to approach a problem              strategically, and to think on my feet quickly and calmly.
-  Whilst Executive Officer at Liverpool Biennial of Contemporary Art, I took a critical look at the budget I had inherited and renegotiated contracts resulting in improved efficiencies and substantial savings of c. £3,000pa; and successfully planned      and implemented new procedures that led to improved organisational performance.
+I was drawn to studying Philosophy, Law, and more recently Programming, largely through a love of problem solving. I consider myself to be very good at analysing problems, having a good conceptual overview of the issues, and applying a suitable solution.
+
+    Prior to studying at Makers Academy, I attended and won a hackathon run by Makers but Judged by external VCs.
+    I have entered and won a number of debating and mooting competions, demonstrating my ability to approach a problem              strategically, and to think on my feet quickly and calmly.
+    Whilst Executive Officer at Liverpool Biennial of Contemporary Art, I took a critical look at the budget I had inherited and renegotiated contracts resulting in improved efficiencies and substantial savings of c. £3,000pa; and successfully planned      and implemented new procedures that led to improved organisational performance.
 
 
 ### Communication and Team Work
