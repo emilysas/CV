@@ -10,7 +10,7 @@ I am a passionate junior web developer with an particular interest in test drive
 I equally comfortable in Ruby (Rails and Sinatra) or Javascript (Node.js), and am currently teaching myself Clojure and Scala. I carry out TDD and BDD, strive to follow the SOLID principles, and to keep my code as DRY as possible.
 
     Working within a team to meet a client brief, I spent the final two weeks of Makers creating a Rails Application heavily reliant on a relational database and a complex and secure routing system: [One Day Experience](https://github.com/emilysas/One_Day_Experience_Prototype)
-     During a 2.5 day makeathon, I worked within a team to create an app that used the Twiter API to analyse current trends: [SmartTwits](https://github.com/emilysas/smart_twits)
+    During a 2.5 day makeathon, I worked within a team to create an app that used the Twiter API to analyse current trends: [SmartTwits](https://github.com/emilysas/smart_twits)
 
 ### Problem Solving
 
