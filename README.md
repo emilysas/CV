@@ -1,6 +1,6 @@
 # Emily Sas
 
-I am a passionate junior web developer with an particular interest in test driven development and object oriented design. I love writing elegant code and derive great satisfaction from make my methods a line long wherever possible. I'm looking for a part-time position that will allow me to learn as much as I possibly can.
+I am a passionate junior web developer with an particular interest in test driven development and object oriented design. I love writing elegant code and derive great satisfaction from making my methods one line long wherever possible. I'm looking for a part-time position that will allow me to learn as much as I possibly can.
 
 
 ## Skills
