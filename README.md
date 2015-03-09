@@ -45,7 +45,7 @@ I have experience managing small teams and medium budgets (upto £250,000). I co
 
     Excellent problem solver, with the ability to see the bigger picutre as well as concentrate on the finer details
     I love writing elegant code
-    OOP, TDD, SOLID, MVC, DDD
+    OOP, TDD, BDD, SOLID, MVC, Agile, KanBan,
     Software Craftsmanship
     Ruby, Rails, Sinatra, Javascript, Node.js
     Rspec, Jasmine, Mocha, Cucumber
