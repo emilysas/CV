@@ -1,6 +1,6 @@
 # Emily Sas
 
-I am a passionate junior web developer with an particular interest in test driven development and object oriented design. I love writing elegant code and derive great satisfaction from writing one line long wherever possible. I'm looking for a part-time position that will allow me to learn as much as I possibly can.
+I am a passionate junior web developer with an particular interest in test driven development and object oriented design. I love writing elegant code and derive great satisfaction from writing methods that are one line long wherever possible. I'm looking for a part-time position that will allow me to learn as much as I possibly can.
 
 
 ## Skills
@@ -25,6 +25,7 @@ I was drawn to studying Philosophy, Law, and more recently Programming, largely 
 
 I work well with others, and constantly strive both to learn from others', and to share my knowledge, in order to build the team's capacity. I have actively participated in and contributed to a variety of discussions and meetings, and am confident meeting with clients and stakeholders.
 
+    Upon graduating from Makers Academy, I was hired as an Alumni Helper to support those currently on the course. 
     In my paralegal role at Islington Law Centre, I attended and conducted client interviews with a view to obtaining necessary     information to support employment law cases
     Recognised for diplomacy, and winner of the Addleshaw Goddard Debating Competition 2010
     Managed relationships at all levels within internal and external organisations including government organisations, contractors, and members of the public. 
