@@ -1,6 +1,6 @@
 # Emily Sas
 
-As a passionate junior web developer with an particular interest in test driven development and object oriented design, I feel that I can add instant value to a firm through my dedication to agile methodologies and TDD. I love writing elegant code and derive great satisfaction from writing methods that are one line long wherever possible. I'm looking for a part-time position, in an agile environment, that will allow me to learn as much as I possibly can.
+As a passionate junior web developer with an particular interest in test driven development and object oriented design, who derives great satisfaction from writing elegant code. I feel that I can add instant value to a firm through my dedication to agile methodologies and TDD. I'm looking for a part-time position, in an agile environment, that will allow me to learn as much as I possibly can.
 
 
 ## Skills
