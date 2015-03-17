@@ -41,7 +41,7 @@ I have experience managing small teams and medium budgets (upto £250,000). I co
   
 
 ## Education
----------
+
 #### Makers Academy - Dec '14 to Mar '15
 
 * Excellent problem solver, with the ability to see the bigger picutre as well as concentrate on the finer details
