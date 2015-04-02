@@ -1,13 +1,13 @@
 # Emily Sas
 
-As a passionate junior web developer with an particular interest in test driven development and object oriented design, who derives great satisfaction from writing elegant code. I feel that I can add instant value to a firm through my dedication to agile methodologies and TDD. I'm looking for a part-time position, in an agile environment, that will allow me to learn as much as I possibly can.
+As a passionate junior web developer with an particular interest in test driven development and object oriented design, who derives great satisfaction from writing elegant code, I feel that I can add instant value to a firm through my dedication to agile methodologies and TDD. I'm looking for a part-time position, in an agile environment, that will allow me to learn as much as I possibly can.
 
 
 ## Skills
 
 ### Programming
 
-I am equally comfortable in Ruby (Rails and Sinatra) or Javascript (Node.js), and am currently learning Angular.js and C#.Net. I carry out TDD and BDD, and strive to follow the SOLID principles and to keep my code as DRY as possible. I believe that in following these principles I can help ensure that my code is TRUE (transferable, readable, usable and exemplery) and, more importantly, that it is easy to maintain and to change.
+I am equally comfortable in Ruby (Rails and Sinatra), Javascript (Node.js). I recently picked up the fundamentals of C#.Net over the course of a week and a half, and am now turning my attention to Scala. I carry out TDD and BDD, and strive to follow the SOLID principles and to keep my code as DRY as possible. I believe that in following these principles I can help ensure that my code is TRUE (transferable, readable, usable and exemplery) and, more importantly, that it is easy to maintain and to change.
 
 * Working within a team to meet a client brief, I spent the final two weeks of Makers creating a Rails Application heavily reliant on a relational database and a complex and secure routing system: [One Day Experience](https://github.com/emilysas/One_Day_Experience_Prototype)
 * During a 2.5 day makeathon, I worked within a team to create an app that used the Twitter API to analyse current trends: [SmartTwits](https://github.com/emilysas/smart_twits)
@@ -38,14 +38,25 @@ I have experience managing small teams and medium budgets (upto £250,000). I co
 
 * Whilst at Liverpool Biennial, I held regular line management meetings with assistant and apprentice in order to ensure successful working relationship and gauge extent of workload and any training requirements
 * I also held regular training sessions with an apprentice in order to fill his skill/knowledge gaps and manage his completion of apprenticeship NVQ
-  
 
+
+### Autodidactism
+
+I have always loved learning, devouring books, and seeking out opportunities to learn as many varied skills as I can, from: languages to touch-typing, photography, the cello, knitting, baking, and electronics.
+
+* Since graduating from Makers Academy, I have taught myself C#.Net and NUnit: [Book Parser] (https://github.com/emilysas/book_parser); and believe this has helped improve my understanding of OOP enormously.
+* I attend as many tech meetups, hacknights, workshops and conferences as possible; in the process, I have learned more about things like: rackware; data analysis; agile methodologies; and when hacking can actually be a good thing.
+* During my gap-year in East Africa, I endeavoured to learn Swahili rather than to rely on English (although a National Language), and ended up with a good conversational level in the language.
+* I am a self-taught amateur chocolatier, which even led to a couple of commissions
+
+
+ 
 ## Education
 
 #### Makers Academy - Dec '14 to Mar '15
 
 * Excellent problem solver, with the ability to see the bigger picutre as well as concentrate on the finer details
-* I love writing elegant code
+* Striving to write simple and elegant code
 * OOP, TDD, BDD, SOLID, MVC, Agile, KanBan,
 * Software Craftsmanship
 * Ruby, Rails, Sinatra, Javascript, Node.js
