@@ -11,7 +11,7 @@ I am equally comfortable in Ruby (Rails and Sinatra), Javascript (Node.js). I re
 
 * Working within a team to meet a client brief, I spent the final two weeks of Makers creating a Rails Application heavily reliant on a relational database and a complex and secure routing system: [One Day Experience](https://github.com/emilysas/One_Day_Experience_Prototype)
 * During a 2.5 day makeathon, I worked within a team to create an app that used the Twitter API to analyse current trends: [SmartTwits](https://github.com/emilysas/smart_twits)
-* I am currently taking Martin Odersky's course 'Functional Programming Principles in Scala' via [Coursera](https://class.coursera.org/progfun-004)
+* I am currently taking Martin Odersky's course 'Functional Programming Principles in Scala' via [Coursera](https://class.coursera.org/progfun-004) in order to gain a better understanding of both Scala and functional programming.
 
 ### Problem Solving
 
