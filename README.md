@@ -7,7 +7,7 @@ Having originally joined comparethemarket.com as a Junior Software Engineer in M
 
 ### Programming
 
-Whilst I am most familiar with C# (ASP.NET and Web API) and Angular.js, I have a background in Ruby (Rails and Sinatra), some experience of Node.js, have also dabbled with Clojure, and am currently learning Scala. I am committed to practicing both TDD and BDD, following the SOLID principles, and writing clean code. I believe that in following these principles I can help ensure that my code is TRUE (transferable, readable, usable and exemplery) and, more importantly, that it is easy to maintain and to change.
+Whilst I am most familiar with C# (ASP.NET MVC and Web API) and Angular.js, I have a background in Ruby (Rails and Sinatra), some experience of Node.js, have also dabbled with Clojure, and am currently learning Scala. I am committed to practicing both TDD and BDD, following the SOLID principles, and writing clean code. I believe that in following these principles I can help ensure that my code is TRUE (transferable, readable, usable and exemplery) and, more importantly, that it is easy to maintain and to change.
 
 * I am currently a member of the comparethemarket.com Functional Programming Guild, where I am researching the possibility of using Scala as part of our new microservices architecture.
 * I am known for writing clean and well tested code.
