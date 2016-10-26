@@ -1,16 +1,17 @@
 # Emily Sas
 
-Currently a Software Engineer with comparethemarket.com, I am committed to writing clean code through test-driven development (upon the subject of which I recently gave a company wide training day). Whilst I have a background in object oriented design, I am currently learning functional programming via the Martin Odersky course Functional Programming in Scala. I care deeply about code quality and derive great satisfaction from writing elegant code. I'm looking for a 4 day per week, in an agile environment, that will allow me to build skills in new languages and platforms.
+Having originally joined comparethemarket.com as a Junior Software Engineer in May 2015, I have since been promoted to Software Engineer. I am committed to writing clean code through test-driven development (upon the subject of which I recently gave a company-wide training day). Whilst I have a background in object oriented design, I am currently learning functional programming via the Martin Odersky course Functional Programming in Scala. I care deeply about code quality and derive great satisfaction from writing elegant code. I am highly pro-active, and enjoy organising talks and events in the workplace. I'm looking for a 4-day per week software engineer position, in an agile environment, that will allow me to build skills in new languages and platforms.
 
 
 ## Skills
 
 ### Programming
 
-Whilst I am most familiar with C# (ASP.NET and Web API) and Angular.js, I have a background in Ruby (Rails and Sinatra) and some experience of Node.js. I have also dabbled with Clojure, and am currently learning Scala. I am committed to practicing both TDD and BDD, following the SOLID principles and writing clean code. I believe that in following these principles I can help ensure that my code is TRUE (transferable, readable, usable and exemplery) and, more importantly, that it is easy to maintain and to change.
+Whilst I am most familiar with C# (ASP.NET and Web API) and Angular.js, I have a background in Ruby (Rails and Sinatra), some experience of Node.js, have also dabbled with Clojure, and am currently learning Scala. I am committed to practicing both TDD and BDD, following the SOLID principles, and writing clean code. I believe that in following these principles I can help ensure that my code is TRUE (transferable, readable, usable and exemplery) and, more importantly, that it is easy to maintain and to change.
 
-* I am currently a member of the comparethemarket.com Functional Programming Guild, where I am advocating the use of Scala as part of our new microservices architecture.
+* I am currently a member of the comparethemarket.com Functional Programming Guild, where I am researching the possibility of using Scala as part of our new microservices architecture.
 * I am known for writing clean and well tested code.
+* I have leapt at the chance to attend training sessions such as: Mobbing with Woody Zuill; Hack Yourself First with Troy Hunt; Behaviour Driven Development with Seb Rose; and training in the use of tools such as Docker, New Relic and Splunk. 
 * I am currently enrolled on Martin Odersky's course 'Functional Programming Principles in Scala' via [Coursera](https://class.coursera.org/progfun-004) in order to gain a better understanding of both Scala and functional programming.
 
 ### Problem Solving
@@ -18,6 +19,7 @@ Whilst I am most familiar with C# (ASP.NET and Web API) and Angular.js, I have a
 I was drawn to studying Philosophy, Law, and more recently Programming, largely through a love of problem solving. I consider myself to be very good at analysing problems, having a good conceptual overview of the issues, and applying a suitable solution.
 
 * I attended and won a hackathon run by Makers Academy but Judged by external VCs.
+* I recently formed and led a hackathon team at comparethemarket.com on the subject of Cross Selling.
 * I have entered and won a number of debating and mooting competions, demonstrating my ability to approach a problem              strategically, and to think on my feet quickly and calmly.
 * Whilst Executive Officer at Liverpool Biennial of Contemporary Art: I took a critical look at the budget I had inherited and renegotiated contracts resulting in improved efficiencies and substantial savings of c. £3,000pa; and successfully planned and implemented new procedures that led to improved organisational performance.
 
