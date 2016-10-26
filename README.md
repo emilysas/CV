@@ -28,7 +28,7 @@ I was drawn to studying Philosophy, Law, and more recently Programming, largely 
 
 I work well within a team and constantly strive both to learn from, and to share my knowledge with, others in order to build the team's capacity. I have actively participated in, and contributed to, a variety of discussions, meetings, and events. I am confident meeting with clients and stakeholders, as well as giving talks, presentations and training sessions.
 
-* Whilst at comparethemarket.com I have gave a Lightning Talk entitled 'How to pair with Juniors' and a Brown Bag on Mobbing.
+* Whilst at comparethemarket.com I have given a Lightning Talk entitled 'How to pair with Juniors' and a Brown Bag on Mobbing.
 * I recently prepared and ran a training day on TDD and BDD; attended by Developers, QAs and Tech Graduates from across BGL Group Ltd (the parent company of comparethemarket.com); and for which I received excellent feedback.
 * I helped found a Design Patterns club at comparethemarket.com and have taught 3 sessions on individual design patterns.
 * I designed and ran a CodeJam competition at comparethemarket.com in order to, by stealth, encourage the use of TDD and the practicing of Code Katas; this proved sucessful and I am planning another one shortly.
