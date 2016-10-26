@@ -11,7 +11,7 @@ Whilst I am most familiar with C# (ASP.NET MVC and Web API) and Angular.js, I ha
 
 * I am currently a member of the comparethemarket.com Functional Programming Guild, where I am researching the possibility of using Scala as part of our new microservices architecture.
 * I am known for writing clean and well tested code.
-* I have leapt at the chance to attend training sessions such as: Mobbing with Woody Zuill; Hack Yourself First with Troy Hunt; Behaviour Driven Development with Seb Rose; and training in the use of tools such as Docker, New Relic and Splunk. 
+* I have attended a number of excellent training sessions including: Mobbing with Woody Zuill; Hack Yourself First with Troy Hunt; Behaviour Driven Development with Seb Rose; and training in the use of tools such as Docker, New Relic and Splunk. 
 * I am currently enrolled on Martin Odersky's course 'Functional Programming Principles in Scala' via [Coursera](https://class.coursera.org/progfun-004) in order to gain a better understanding of both Scala and functional programming.
 
 ### Problem Solving
