@@ -5,6 +5,35 @@ Having originally joined comparethemarket.com as a Junior Software Engineer in M
 
 ## Skills
 
+### Languages, Frameworks & Tools
+
+I have intermediate/advanced knowledge of:
+* C#
+* .NET MVC
+* .NET Web API
+* Javascript
+* Angular
+
+I have good knowledge / working experience of:
+* Ruby
+* Knockout.js
+* SQL
+* CSS and Sass
+* Splunk
+* New Relic
+* Google Analytics
+
+I have some knowledge/experience of:
+* Node
+* Sinatra
+* Rails
+* Scala
+* Play
+* Clojure
+* MongoDb
+* Docker
+* AWS
+
 ### Programming
 
 Whilst I am most familiar with C# (ASP.NET MVC and Web API) and Angular.js, I have a background in Ruby (Rails and Sinatra), some experience of Node.js, have also dabbled with Clojure, and am currently learning Scala. I am committed to practicing both TDD and BDD, following the SOLID principles, and writing clean code. I believe that in following these principles I can help ensure that my code is TRUE (transferable, readable, usable and exemplery) and, more importantly, that it is easy to maintain and to change.
@@ -46,17 +75,6 @@ I have experience managing small teams and medium budgets (upto £250,000). I co
 * I currently coach a Junior Software Engineer.
 * Whilst at Liverpool Biennial, I held regular line management meetings with assistant and apprentice in order to ensure successful working relationship and gauge extent of workload and any training requirements
 * I also held regular training sessions with an apprentice in order to fill his skill/knowledge gaps and manage his completion of apprenticeship NVQ
-
-
-### Autodidactism
-
-I have always loved learning, devouring books, and seeking out opportunities to learn as many varied skills as I can, from: languages to touch-typing, the piano and cello, knitting, baking, and electronics.
-
-* I am currently learning piano and really enjoying it.
-* I recently joined the newly formed Functional Programming Guild at comparethemarket.com and have welcomed the opportunity to concentrate on a new language.
-* I attend as many tech meetups, hacknights, workshops and conferences as possible.
-* During my gap-year in East Africa, I endeavoured to learn Swahili rather than to rely on English (although a National Language), and ended up with a good conversational level in the language.
-* I am a self-taught amateur chocolatier, which even led to a couple of commissions
 
 
  
